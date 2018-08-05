@@ -22,3 +22,7 @@ body {
 #footer {
   text-align: right;
 }
+
+#header {
+    opacity: 0.5;
+}
