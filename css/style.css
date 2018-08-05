@@ -29,4 +29,5 @@ body {
 
 img { 
    border:1px solid #021a40;
+   opacity: .3;
 }
