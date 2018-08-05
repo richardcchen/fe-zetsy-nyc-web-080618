@@ -18,3 +18,15 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#footer {
+  text-align: right;
+}
+
+#header {
+    opacity: 0.3;
+}
+
+img { 
+   border:1px solid #021a40;
+}
