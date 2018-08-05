@@ -26,3 +26,7 @@ body {
 #header {
     opacity: 0.3;
 }
+
+.images { 
+   border:1px solid #021a40;
+}
